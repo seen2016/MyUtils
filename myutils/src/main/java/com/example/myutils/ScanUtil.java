@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * @author BJB184
+ * 扫描工具类
  * Created by tang on 2017/2/13.
  */
 
